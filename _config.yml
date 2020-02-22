@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: DigitalCPR
+  tagline: An agency with style :)
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,9 +24,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: gamer456148
+    github:  DigitalCPR
+    linkedIn: in/gamer456148
     rss: rss
  
 
